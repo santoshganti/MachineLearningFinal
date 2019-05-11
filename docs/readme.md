@@ -9,3 +9,17 @@ The data itself is so big that it's not possible to provide the code over GitHub
 We have provided the code in the form of iPython notebook. Please download the notebook provided and to run the code in the notebook please set up an account on Kaggle and upload this notebook in a kernel over at Kaggle. Alternatively, if you can download the data provided by kaggle, you can use environment of your choice to run this notebook. 
 
 We will in this repository provide our report and iPython Notebook for reference.
+
+Goto new kernel as shown in the image below
+
+![screen1](images/screen1.png)
+
+Upload the new notbook once you create a jupyter notebook based kernel. 
+
+![screen2](images/screen2.png)
+
+You should now be able to run the code provided by us. 
+
+Please let us know if you have any questions. 
+
+Thanks
