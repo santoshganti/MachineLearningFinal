@@ -12,11 +12,11 @@ We will in this repository provide our report and iPython Notebook for reference
 
 Goto new kernel as shown in the image below
 
-![screen1](images/screen1.png)
+<img src="images/screen1.png" width="80%">
 
 Upload the new notbook once you create a jupyter notebook based kernel. 
 
-![screen2](images/screen2.png)
+<img src="images/screen2.png" width="30%">
 
 You should now be able to run the code provided by us. 
 
