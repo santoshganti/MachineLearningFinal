@@ -8,7 +8,7 @@ The data itself is so big that it's not possible to provide it over GitHub or zi
 
 We have provided the code in the form of iPython notebook. Please download the notebook provided and to recreate the project please set up an account on Kaggle, register for this competetion and upload this notebook in a kernel at Kaggle. Alternatively, if you can download the data provided by kaggle, you can use environment of your choice to run this notebook. 
 
-We will provide our report and iPython Notebook for reference and can find them in the repository.
+We will provide our report and iPython Notebook for reference and you can find them in the repository.
 
 Goto new kernel as shown in the image below
 
