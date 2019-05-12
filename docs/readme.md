@@ -20,6 +20,16 @@ Upload the new notbook once you create a jupyter notebook based kernel.
 
 You should now be able to run the code provided by us. 
 
+Below are the results we got 
+
+This is the mean absolute error with statistical features 
+
+<img src="images/Result1.png" width="80%">
+
+This is the mean absolute error with statistical features and signal processing features
+
+<img src="images/Result2.png" width="80%">
+
 Please let us know if you have any questions. 
 
 Thanks
