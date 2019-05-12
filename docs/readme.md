@@ -28,7 +28,7 @@ This is the mean absolute error with statistical features
 
 This is the mean absolute error with statistical features and signal processing features
 
-<img src="images/Result2.png" width="80%">
+<img src="images/Result2.jpeg" width="80%">
 
 Please let us know if you have any questions. 
 
